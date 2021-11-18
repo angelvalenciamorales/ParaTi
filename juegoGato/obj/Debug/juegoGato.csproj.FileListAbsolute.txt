@@ -1,0 +1,11 @@
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\bin\Debug\juegoGato.exe.config
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\bin\Debug\juegoGato.exe
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\bin\Debug\juegoGato.pdb
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\obj\Debug\juegoGato.csproj.AssemblyReference.cache
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\obj\Debug\juegoGato.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\obj\Debug\juegoGato.Form1.resources
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\obj\Debug\juegoGato.Properties.Resources.resources
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\obj\Debug\juegoGato.csproj.GenerateResource.cache
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\obj\Debug\juegoGato.csproj.CoreCompileInputs.cache
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\obj\Debug\juegoGato.exe
+C:\Users\angel valencia\Downloads\juegoGato\juegoGato\obj\Debug\juegoGato.pdb
